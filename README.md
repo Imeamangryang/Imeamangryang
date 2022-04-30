@@ -12,7 +12,7 @@
 
 아마 저의 조그마한 상상들도 무명의 작은 들꽃으로 피고 질테지만.
 
-다만 세상에 한 송이의 꽃으로서 기억될 수 있다면, 저는 오래도록 화원에 남아있겠습니다.
+다만 세상에 한 송이의 꽃으로서 기억될 수 있다면, 저는 오래도록 꽂으로 피어있겠습니다.
 
 <!--
 **Imeamangryang/Imeamangryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
