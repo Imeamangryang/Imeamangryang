@@ -6,7 +6,7 @@
 
 엉뚱한 미래를 가르쳐준 당신이 방황할 때에는 여기서 기다리고 있을테니까.
 
-오늘도 또 여름바람이 옷자락을 조금 흔들었습니다.
+오늘도 또 다시 여름바람이 불어와 당신이 준 옷자락을 흔들이고 갑니다.
 
 <!--
 **Imeamangryang/Imeamangryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
