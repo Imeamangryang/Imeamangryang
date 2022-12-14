@@ -1,12 +1,6 @@
 ### 세상에 단 하나뿐인 나만의 작은 상상공간💬
 
-마음 속에서 흘러넘쳤던
-
-상상은 세계를 향해 조금씩 울리기 시작해서,
-
-엉뚱한 미래를 가르쳐준 당신이 방황할 때에는 여기서 기다리고 있을테니.
-
-오늘도 또 다시 여름바람이 불어와 당신이 준 옷자락을 흔들이고 갑니다.
+재정비중...
 
 <!--
 **Imeamangryang/Imeamangryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
