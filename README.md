@@ -1,7 +1,7 @@
 ### 세상에 단 하나뿐인 나만의 작은 상상공간💬
 
 <div align="center">
-<p><a href="https://imeamangryang.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github BLOG-EA4AAA?style=flat&logo=GitHub&logoColor=white"/></a></p>
+<p><a href="https://imeamangryang.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github BLOG-313131?style=flat&logo=GitHub&logoColor=white"/></a></p>
 <p> 어제보다 더 나아간 오늘을, 오늘보다 더 나아갈 내일을 상상하며. </p>
 <p> 매일 성실하고 올바르게 살려고 발버둥치는 개발자 </p>
 </div>
@@ -22,17 +22,7 @@
 <p>💻Programming,&nbsp;&nbsp;🎹Piano,&nbsp;&nbsp;🎮Games</p>📘Novel,&nbsp;&nbsp;
 </div>
 
-<!--
-**Imeamangryang/Imeamangryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @Imeamangryang
+- 💤 I’m interested in C++, Minecraft, Unreal Engine, Server Programming.
+- 🌱 I’m currently learning C++, Go lang, and computer graphics for Game VFX 
+- 📫 How to reach me & 💬 Ask me about : Send Discord Message here ➡ [jione34#7662]
