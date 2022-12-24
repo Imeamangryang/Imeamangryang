@@ -19,7 +19,7 @@
 
 <div align="center">
 <h3>❤️ I love...</h3>
-<p>💻Programming,&nbsp;&nbsp;🎹Piano,&nbsp;&nbsp;🎮Games</p>📘Novel,&nbsp;&nbsp;
+<p>💻Programming,&nbsp;&nbsp;🎹Piano,&nbsp;&nbsp;🎮Games,&nbsp;&nbsp;📘Novel</p>
 </div>
 
 - 👋 Hi, I’m @Imeamangryang
