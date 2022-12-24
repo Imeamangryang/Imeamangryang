@@ -1,10 +1,9 @@
 ### 세상에 단 하나뿐인 나만의 작은 상상공간💬
 
 <div align="center">
-<p><a href="https://imeamangryang.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<p>Hi There! I'm a frontEnd developer.</p>
-<p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
+<p><a href="https://imeamangryang.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github BLOG-EA4AAA?style=flat&logo=GitHub&logoColor=white"/></a></p>
+<p> 어제보다 더 나아간 오늘을, 오늘보다 더 나아갈 내일을 상상하며. </p>
+<p> 매일 성실하고 올바르게 살려고 발버둥치는 개발자 </p>
 </div>
 
 ***
@@ -18,8 +17,10 @@
 
 ***
 
+<div align="center">
 <h3>❤️ I love...</h3>
-<p>💻Programming,&nbsp;&nbsp;🎹Piano,&nbsp;&nbsp;🎮Games</p>
+<p>💻Programming,&nbsp;&nbsp;🎹Piano,&nbsp;&nbsp;🎮Games</p>📘Novel,&nbsp;&nbsp;
+</div>
 
 <!--
 **Imeamangryang/Imeamangryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
