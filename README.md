@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal Engine 5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>  
 </p>
 
