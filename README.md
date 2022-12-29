@@ -1,14 +1,13 @@
 ### 세상에 단 하나뿐인 나만의 작은 상상공간💬
 
 <div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImeamangryang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 <p><a href="https://imeamangryang.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github BLOG-313131?style=flat&logo=GitHub&logoColor=white"/></a></p>
 <p> 어제보다 더 나아간 오늘을, 오늘보다 더 나아갈 내일을 상상하며. </p>
 <p> 매일 성실하고 올바르게 살려고 발버둥치는 개발자 </p>
 </div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImeamangryang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shinsangeun.github.io/)](https://Imeamangryang.github.io/)
 
 ***
 
