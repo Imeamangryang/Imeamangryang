@@ -6,6 +6,8 @@
 <p> 매일 성실하고 올바르게 살려고 발버둥치는 개발자 </p>
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImeamangryang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ***
 
 <h3 align="center">💻Teach Stack💻</h3>
