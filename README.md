@@ -2,8 +2,8 @@
 
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImeamangryang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJGPgxoIPY6Q%26list%3DRDwjdKgR5coOw%26index%3D14&theme=neon&variant=green)](https://www.youtube.com/watch?v=JGPgxoIPY6Q&list=RDwjdKgR5coOw&index=14)
+
 <p><a href="https://imeamangryang.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github BLOG-313131?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/jun_5eop/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a></p>
 
