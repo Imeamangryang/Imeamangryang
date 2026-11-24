@@ -4,8 +4,7 @@
   
 [![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJGPgxoIPY6Q%26list%3DRDwjdKgR5coOw%26index%3D14&theme=neon&variant=green)](https://www.youtube.com/watch?v=JGPgxoIPY6Q&list=RDwjdKgR5coOw&index=14)
 
-<p><a href="https://imeamangryang.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github BLOG-313131?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/jun_5eop/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a></p>
+[![velog](https://velo-card.profilecard.workers.dev/api?name=imeamangryang&layout=thumbnail&theme=github&tags=Unreal+Engine%2CAI%2CC%2B%2B&hide_bio=true)](https://velog.io/@imeamangryang)
 
 <p> 어제보다 더 나아간 오늘을, 오늘보다 더 나아갈 내일을 상상하며. </p>
 <p> 매일 성실하고 올바르게 살려고 발버둥치는 개발자 </p>
